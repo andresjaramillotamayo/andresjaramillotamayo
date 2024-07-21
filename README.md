@@ -18,6 +18,7 @@
 
 **About Me!**
 
+- I’m working as a backend software developer on different projects involving AI implementations, web scraping, building APIs, and microservice architecture.
 - 👨🏽‍💻 I'm currently finishing a master's degree in Analytical Data Engineering at the National University of Colombia.
 - 🤖 My profile is that of a Data Scientist, and I'm passionate about Deep Learning and Machine Learning.
 - 🏆🎓I hold a professional degree in Chemical Engineering and proudly achieved the top academic performance in my class.
@@ -31,17 +32,19 @@
 
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/10429/sql.png"></code> SQLite
+<code><img height="20" src="https://img.icons8.com/nolan/96/django.png"></code> Django
+<code><img height="20" src="https://img.icons8.com/fluency/48/github.png"></code> GitHub
+<code><img height="20" src="https://img.icons8.com/fluency/48/sql.png"></code> SQLite y MySQL
 <code><img height="20" src="https://img.icons8.com/fluency/48/power-bi-2021.png"></code> Power BI
-<code><img height="20" src="https://img.icons8.com/nolan/38389/git.png"></code> GIT
-<code><img height="20" src="https://img.icons8.com/fluency/100/docker.png"></code> Docker
-<code><img height="20" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"></code> Excel 
-<code><img height="20" src="https://img.icons8.com/fluency/48/azure-1.png"></code> Azure
-<code><img height="20" src="https://img.icons8.com/nolan/39854/javascript.png"></code> JavaScript
-<code><img height="20" src="https://img.icons8.com/nolan/61864/artificial-intelligence.png"></code> Machine Learning
-<code><img height="20" src="https://img.icons8.com/color/48/learning.png"></code> Deep Learning
+<code><img height="20" src="https://img.icons8.com/color/48/git.png"></code> GIT
+<code><img height="20" src="https://img.icons8.com/fluency/48/docker.png"></code> Docker
+<code><img height="20" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"></code> Excel
+<code><img height="20" src="https://img.icons8.com/fluency/48/aws.png"></code> AWS
+<code><img height="20" src="https://img.icons8.com/nolan/64/javascript.png"></code> JavaScript
+<code><img height="20" src="https://img.icons8.com/nolan/64/artificial-intelligence.png"></code> Machine Learning (Scikit-Learn, Pytorch, TensorFlow)
+<code><img height="20" src="https://img.icons8.com/color/48/learning.png"></code> Deep Learning (LangChain, Scrap Graph AI, Crew AI)
 <code><img height="20" src="https://img.icons8.com/fluency/48/opencv.png"></code> Computer Vision
-<code><img height="20" src="https://img.icons8.com/nolan/10246/html.png"></code> HTML
+<code><img height="20" src="https://img.icons8.com/nolan/64/html-5.png"></code> HTML
 <code><img height="20" src="https://img.icons8.com/parakeet/48/css.png"></code> CSS
 
 <div style="text-align: center; background-color: #FCE8E8; padding: 20px; border-radius: 10px;">
