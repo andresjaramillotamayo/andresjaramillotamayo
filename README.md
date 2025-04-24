@@ -1,71 +1,54 @@
-<h2 align="center"> 👋 Hey, I'm <strong>Andrés Felipe Jaramillo Tamayo</strong> — welcome to my GitHub! 🚀 </h2>
+<h2 title="hehehe"> Hey 👋, I'm Andrés Jaramillo. Welcome to my GitHub! 🚀 </h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-jaramillo-tamayo-97051516a/">
-    <img alt="LinkedIn" width="28" src="https://img.icons8.com/nolan/96/linkedin.png" />
-  </a>
-  &nbsp;
-  <a href="mailto:anfjaramillota@gmail.com">
-    <img alt="Email" width="28" src="https://img.icons8.com/color/96/gmail--v1.png" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-jaramillo-tamayo-97051516a/">
+  <img align="left" alt="Andrés's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/andresjara98/">
+  <img align="left" alt="Andrés's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
 
----
 
-## About Me / Sobre mí  
-🇬🇧 **English** / 🇪🇸 **Español**
 
-- 🎯 **AI & Backend Engineer** at **Neostella** (semi-senior → senior track). I build event-driven data platforms on **AWS** (Lambda, Step Functions, S3, RDS, EventBridge) and deliver computer-vision models for food segmentation in production.  
-- 🛠️ Core contributor to our **Data Warehouse** modernization: serverless ETL (Python + Spark on EMR) handling **2 TB /day** with \<200 ms query latencies.  
-- 🗃️ Designed a dynamic schema-manager that patches DDL (add/rename/drop columns) via Lambda, reducing manual DBA work **80 %**.  
-- 🤖 Published a U-Net GPU pipeline (PyTorch + SageMaker) that raised mIoU **0.71 → 0.86** and cut inference cost 40 %; presented at **PyData Madrid 2024**.  
-- 🎓 Finishing an **M.Sc. in Data Analytics Engineering** (National University of Colombia). Thesis: *Transfer-learning for carbohydrate estimation from food images*.  
-- 🧑‍💼 **Current goal:** Applying for **AI Software Engineer – BCG X (Madrid/Barcelona)** to tackle global challenges with state-of-the-art ML and consulting impact.  
-- 🌎 Languages: **Spanish (native) · English (C1)**; learning German (A2).
+<br />
+<br />
 
----
 
-## Tech Stack
+<img align="right" alt="IMG" src="https://drive.google.com/uc?export=download&id=1n7zZmfYLjmJH9OQ3k7RF5ScXv-5n1A-Z" width="50%" />
 
-| Domain | Tools |
-|--------|-------|
-| **Languages** | Python (5 y), Java/Scala (3 y), SQL, Bash |
-| **ML/DL** | PyTorch, TensorFlow, Keras, Scikit-learn, MLflow, TensorBoard |
-| **Data Eng.** | Apache Spark, Dask, Pandas, NumPy |
-| **Cloud** | AWS (SageMaker, EC2, S3, Lambda, Step Functions, EKS) · GCP (AI Platform) · Azure (ML Studio) |
-| **DevOps/MLOps** | Docker, Kubernetes, Terraform, Jenkins, GitHub Actions |
-| **APIs & Serving** | FastAPI, Flask, TensorFlow Serving, Streamlit |
-| **Viz & BI** | Power BI, Tableau, Plotly/Dash, Matplotlib/Seaborn |
 
-> **Mission:** Aligning my portfolio with the BCG X tech stack to deliver end-to-end AI products that create measurable business value.
+**About Me!**
 
----
+- I’m working as a backend software developer on different projects involving AI implementations, web scraping, building APIs, and microservice architecture.
+- 👨🏽‍💻 I'm currently finishing a master's degree in Analytical Data Engineering at the National University of Colombia.
+- 🤖 My profile is that of a Backend Software Dev and Data Scientist, and I'm passionate about Deep Learning and Machine Learning.
+- 🏆🎓I hold a professional degree in Chemical Engineering and proudly achieved the top academic performance in my class.
+- 🌟 Open to collaborations and interesting projects. Let's build something amazing together! 
+- 💡 Ask me about anything, I love to answer! I thrive on solving problems, leveraging my analytical mindset.
+- 📫 Email me at [anfjaramillota@gmail.com](mailto:anfjaramillota@gmail.com).
 
-## Highlight Projects  *(pinned repos)*
 
-| Project | Purpose | Tech |
-|---------|---------|------|
-| **spark-pipeline-climate** | Distributed ETL & feature store for climate-risk analytics | Spark · EMR · AWS Glue |
-| **fastapi-ml-service** | Containerised micro-service serving CV models at \<50 ms p99 | FastAPI · Docker · EKS |
-| **schema-core-lambda** | Serverless DDL manager for 120 + RDS tables | AWS Lambda · boto3 · Terraform |
-| **food-segmentation-unet** | Transfer-learned U-Net with 0.86 mIoU on custom dataset | PyTorch · SageMaker |
 
-Each repo follows **clean-code & CI/CD** best practices (black, mypy, ≥ 90 % coverage, semantic-release).
+**Languages and Tools:**  
 
----
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andresjaramillotamayo&show_icons=true&count_private=true&theme=highcontrast" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresjaramillotamayo&count_private=true&theme=highcontrast" alt="streak"/>
-</p>
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="20" src="https://img.icons8.com/nolan/96/django.png"></code> Django
+<code><img height="20" src="https://img.icons8.com/fluency/48/github.png"></code> GitHub
+<code><img height="20" src="https://img.icons8.com/nolan/10429/sql.png"></code> SQLite y MySQL
+<code><img height="20" src="https://img.icons8.com/fluency/48/power-bi-2021.png"></code> Power BI
+<code><img height="20" src="https://img.icons8.com/color/48/git.png"></code> GIT
+<code><img height="20" src="https://img.icons8.com/fluency/48/docker.png"></code> Docker
+<code><img height="20" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"></code> Excel
+<code><img height="20" src="https://img.icons8.com/fluency/48/amazon-web-services.png"></code> AWS
+<code><img height="20" src="https://img.icons8.com/nolan/64/javascript.png"></code> JavaScript
+<code><img height="20" src="https://img.icons8.com/nolan/64/artificial-intelligence.png"></code> Machine Learning (Scikit-Learn, Pytorch, TensorFlow)
+<code><img height="20" src="https://img.icons8.com/color/48/learning.png"></code> Deep Learning (LangChain, Scrap Graph AI, Crew AI)
+<code><img height="20" src="https://img.icons8.com/fluency/48/opencv.png"></code> Computer Vision
+<code><img height="20" src="https://img.icons8.com/nolan/64/html-5.png"></code> HTML
+<code><img height="20" src="https://img.icons8.com/parakeet/48/css.png"></code> CSS
 
----
-
-## Let’s Connect
-I’m always eager to discuss AI, MLOps, and how tech drives business transformation.  
-📩 **Email:** anfjaramillota@gmail.com  
-🤝 **Open to collaborations & speaking engagements.**
-
-*“Turning complex data into simple, scalable, and impactful products.”*
+<div style="text-align: center; background-color: #FCE8E8; padding: 20px; border-radius: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=andresjaramillotamayo&show_icons=true&hide_border=true&count_private=true&theme=highcontrast" alt="Andrés's GitHub Stats" style="margin-bottom: 20px;" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresjaramillotamayo&count_private=true&theme=highcontrast" alt="Andrés Jaramillo" />
+</div>
