@@ -18,13 +18,19 @@
 
 **About Me!**
 
-- I’m working as a backend software developer on different projects involving AI implementations, web scraping, building APIs, and microservice architecture.
-- 👨🏽‍💻 I'm currently finishing a master's degree in Analytical Data Engineering at the National University of Colombia.
-- 🤖 My profile is that of a Backend Software Dev and Data Scientist, and I'm passionate about Deep Learning and Machine Learning.
-- 🏆🎓I hold a professional degree in Chemical Engineering and proudly achieved the top academic performance in my class.
-- 🌟 Open to collaborations and interesting projects. Let's build something amazing together! 
-- 💡 Ask me about anything, I love to answer! I thrive on solving problems, leveraging my analytical mindset.
-- 📫 Email me at [anfjaramillota@gmail.com](mailto:anfjaramillota@gmail.com).
+🚀 I’m working as a Backend & Data Engineer on projects involving RESTful APIs, serverless microservices, and batch/streaming data pipelines on AWS (Python, Node.js, Lambda, S3, Glue, Athena, Lake Formation, DataZone, PostgreSQL, Aurora, DynamoDB).
+
+🎓 I’m currently finishing a Master’s degree in Data Analytics Engineering at the National University of Colombia (UNAL).
+
+🤖 My profile sits between Backend Engineering and Data Science: I enjoy building ML and Deep Learning solutions with MLflow, supervised/unsupervised models, neural networks and computer vision (scikit-learn, TensorFlow, PyTorch).
+
+🏆🎓 I hold a professional degree in Chemical Engineering and proudly graduated with the top academic performance in my class.
+
+🌟 I’m open to collaborations on data platforms, ML/AI products, and backend services – let’s build something meaningful together.
+
+💡 I love solving complex problems with a clear, analytical mindset and sharing what I learn along the way.
+
+📫 Email me at anfjaramillota@gmail.com.
 
 
 
